@@ -1,0 +1,13 @@
+# Core Data Science
+pandas
+numpy
+
+# Machine Learning Engine
+prophet
+
+# Interactive Dashboard & Visuals
+streamlit
+plotly
+
+# Utility for date handling
+holidays
